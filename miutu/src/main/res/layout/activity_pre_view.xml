@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.andrew.miutu.activity.PreViewActivity">
+
+    <com.andrew.miutu.view.waterfall.ScaleImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pre_img"
+        android:scaleType="centerCrop"
+        android:gravity="center"
+        android:layout_gravity="center_vertical" />
+</LinearLayout>

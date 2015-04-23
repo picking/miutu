@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e00032</color>
+    <color name="navigationBarColor">#8f8f8f</color>
+    <color name="colorPrimaryDark">#aa120a</color>
+    <color name="background">#f0f0f0</color>
+    <color name="transparent">#00f0f0f0</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#eeeeee</color>
+    <color name="dark_gray">#656565</color>
+    <color name="wine_red">#ff4081</color>
+
+    <color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+
+    <color name="half_transparent">#80000000</color>
+</resources>
